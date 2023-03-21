@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravind-812
+- 👋 Hi, I’m Aravind
 - 👀 I’m interested in Node, Python
 - 🌱 I’m currently learning Go-Lang
 - 📫 How to reach me aravindkamarsu32@gmail.com
