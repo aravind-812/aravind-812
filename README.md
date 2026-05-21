@@ -1,7 +1,6 @@
   ---
   Hey, I'm Aravind 👋
 
-  I build AI-powered tools and agent.
 
   Currently focused on multi-agent pipelines for real-world document workflows using LangGraph, LangChain, and frontier LLM APIs.
 
